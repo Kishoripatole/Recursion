@@ -3,7 +3,7 @@ int fibonacci(int n);
 
 int main()
 {
-     printf("Fibonacci of number:%d",fibonacci(8));
+     printf("Fibonacci of number:%d",fibonacci(3));
      return 0;
 }
 
